@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RunsTp&show_icons=true&theme=dracula&custom_title=阿正count_private=true">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RunsTp&show_icons=true&theme=dracula&custom_title=阿正&count_private=true">
 
 ### 我？
 
